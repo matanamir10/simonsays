@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/gameover.mp3",
+      "sha1": "422c07072455b443b108721034a8791301b2c95d"
+    },
+    {
+      "path": "assets/tap.mp3",
+      "sha1": "f9d1931642d07e911c879d277f97795b39ddc0ba"
+    }
+  ]
+}
